@@ -1,4 +1,4 @@
-name: Sync(手动执行接换到传统部署分支)
+name: Sync(手动执行切换到传统部署分支)
 on:
   workflow_dispatch:
 jobs:
