@@ -1,4 +1,4 @@
-name: Sync Config(手动执行切换到配置文件部署)
+name: Sync(手动执行切换到配置文件部署)
 on:
   workflow_dispatch:
 jobs:
