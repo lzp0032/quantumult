@@ -12,8 +12,9 @@
         
 "15 0,1,8,15,20 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js, tag=都爱玩, enabled=true",   
         
+"*/60 * * * * http://nm66.top/jzread.js, tag=柠檬九章头条, img-url=circles.hexagongrid.fill.system, enabled=true",     
+        
 "10 8 * * * https://gitee.com/gossh520/script/raw/master/gdbhapp.js, tag=果冻宝盒, enabled=false",     
-        
-        
+                
     ]
 }
