@@ -4,7 +4,7 @@
     "task": [  
     	"35 11,16 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js, tag=腾讯自选股, enabled=true",
           " 10 10 * * * https://gitee.com/gossh520/script/raw/master/jkdapp.js, tag=聚看点, enabled=true",
-       
+       "0 0 8/16 * * * https://gitee.com/tom210120/tom/raw/master/QKHQ/qkhq.js"
         "11 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=false",
     ]
 }
