@@ -10,7 +10,9 @@
         
 " 0 0 6,12,18,21 * * * https://gitee.com/tom210120/tom/raw/master/SJB/jqb.js, tag=经期宝, enabled=false",
         
-"15 0,1,8,15,20 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js, tag=都爱玩, enabled=true",     
+"15 0,1,8,15,20 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js, tag=都爱玩, enabled=true",   
+        
+"10 8 * * * https://gitee.com/gossh520/script/raw/master/gdbhapp.js, tag=果冻宝盒, enabled=false",     
         
         
     ]
