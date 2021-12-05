@@ -15,8 +15,6 @@
 "10 8 * * * https://gitee.com/gossh520/script/raw/master/gdbhapp.js, tag=果冻宝盒, enabled=false",     
 
 "0 * * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js, tag=全球购骑士特权, enabled=true",
-        
-        
-        
+     
     ]
 }
