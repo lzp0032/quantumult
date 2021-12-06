@@ -1,3 +1,3 @@
 hostname=mp.weixin.qq.com
 
-^https?://mp\.weixin\.qq\.com/s.+? url response-body </script>response-body setTimeout(()=>window.history.back(),8800);</script>
+^https?://mp\.weixin\.qq\.com/s.+? url response-body </script>response-body setTimeout(()=>window.history.back(),9100);</script>
