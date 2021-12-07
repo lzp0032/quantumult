@@ -1,8 +1,7 @@
 {
     "name": "东拼西凑",
     "description": "社会主义羊毛",
-    "task": 
-    [  
+    "task":[  
 "35 11,16 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js, tag=腾讯自选股, enabled=true",
         
  "*/60 * * * * http://47.101.146.160/scripts/jkd.js, tag=聚看点, img-url=https://raw.githubusercontent.com/sngxmini/QuanX/main/pic/ningmeng.png, enabled=true",
