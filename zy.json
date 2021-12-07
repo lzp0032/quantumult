@@ -22,6 +22,5 @@
         
 "0-59/15 8-23 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ydd.js, tag=悦看点, enabled=true",
 
-"11 13 * * * https://gitee.com/gossh520/script/raw/master/yclyapp.js, tag=蚁从, enabled=true",
     ]
 }
