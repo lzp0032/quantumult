@@ -1,6 +1,6 @@
 /*
 @肥皂 12 .5  多多花园无限刷。  微信公众号：肥皂有毛毛
-https://bp-api.coohua.com/shua-ddhy/receive/ url script-request-header ddhy.js   重写
+https://bp-api.coohua.com/shua-ddhy/receive/ url script-request-header https://raw.githubusercontent.com/lzp0032/MYS/main/ddhy.js  重写
 bp-api.coohua.com  mitm
 只测试了v2p...  无限刷，运行一次并发20次请求。0.5秒完成。。。自己根据情况设置cron吧。一秒一次？
 提现有次数限制，有黑号几率，年轻人自己把握。
