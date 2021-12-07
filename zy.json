@@ -18,7 +18,9 @@
 
 "0/10 * * * * ?  https://raw.githubusercontent.com/lzp0032/MYS/main/ddhy.js, tag=多多花园, enabled=true",
         
-"0 0 */2 * * * https://gitee.com/xiecoll/radish-script/raw/master/ddgy.js, tag=滴滴水果, enabled=true",        
+"0 0 */2 * * * https://gitee.com/xiecoll/radish-script/raw/master/ddgy.js, tag=滴滴水果, enabled=true",    
+        
+"0-59/15 8-23 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ydd.js, tag=悦看点, enabled=true",
         
     ]
 }
