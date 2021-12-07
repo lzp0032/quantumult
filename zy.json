@@ -1,6 +1,6 @@
 {
-    "name": "reezo东拼西凑",
-    "description": "reezo东拼西凑",
+    "name": "东拼西凑",
+    "description": "社会主义羊毛",
     "task": [  
 "35 11,16 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js, tag=腾讯自选股, enabled=true",
         
