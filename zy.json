@@ -8,7 +8,7 @@
         
 "0 0 8/16 * * * https://gitee.com/tom210120/tom/raw/master/QKHQ/qkhq.js, tag=趣看行情, enabled=true",
     
-"15 0,1,8,15,20 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js, tag=都爱玩, enabled=true",   
+"0 3 0/3 * * ?  https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js, tag=都爱玩, enabled=true",   
        
 "0 * * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js, tag=全球购骑士特权, enabled=true",
         
