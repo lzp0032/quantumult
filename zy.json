@@ -6,7 +6,7 @@
         
  "*/60 * * * * http://47.101.146.160/scripts/jkd.js, tag=聚看点, img-url=https://raw.githubusercontent.com/sngxmini/QuanX/main/pic/ningmeng.png, enabled=true",
         
-"0 0 8/16 * * * https://gitee.com/tom210120/tom/raw/master/QKHQ/qkhq.js, tag=趣看行情, enabled=true",
+"0 30 8,15 * * ?  https://gitee.com/tom210120/tom/raw/master/QKHQ/qkhq.js, tag=趣看行情, enabled=true",
     
 "0 3 0/2 * * ?  https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js, tag=都爱玩, enabled=true",   
        
