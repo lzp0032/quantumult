@@ -16,7 +16,5 @@
         
 "0-59/15 8-23 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ydd.js, tag=悦看点, enabled=true",
         
-"0 5 0/2 * * ?  https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqctapp.js, tag=番茄畅听, enabled=true",   
-
     ]
 }
