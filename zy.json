@@ -5,15 +5,11 @@
 "35 11,16 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js, tag=腾讯自选股, enabled=true",
         
  "*/60 * * * * http://47.101.146.160/scripts/jkd.js, tag=聚看点, img-url=https://raw.githubusercontent.com/sngxmini/QuanX/main/pic/ningmeng.png, enabled=true",
-  
-"0 3 0/2 * * ?  https://raw.githubusercontent.com/leafxcy/JavaScript/main/daw.js, tag=都爱玩, enabled=true",   
        
 "0 6 0/1 * * ?  https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js, tag=全球购骑士特权, enabled=true",
         
 "0 7 0/2 * * ?  https://gitee.com/xiecoll/radish-script/raw/master/ddgy.js, tag=滴滴水果, enabled=true",    
-        
-"0-59/15 8-23 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ydd.js, tag=悦看点, enabled=true",
-        
+      
 "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://qxnav.com/rules/QuantumultX/img/fqxs.png, enabled=true",
 
 "1-59/15 6-23 * * *  https://raw.githubusercontent.com/leafxcy/JavaScript/main/jrttjsb.js, tag=今日头条极速版, enabled=true",
