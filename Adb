@@ -25,6 +25,23 @@ http:\/\/analytics\.163\.com\/ntes url reject
 
 
 
+#书旗小说去广告
+^http:\/\/ut2\.shuqistat\.com\/.+\.gif url reject
+^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/.+ url reject
+^https?:\/\/sq\.sljkj\.com\/api\/sdk\/ads2 url reject
+^https?:\/\/ocean\.shuqireader\.com\/api\/ad\/adserver\/.+ url reject
+^https?:\/\/ocean\.shuqireader\.com\/api\/route\/iosReadPage\/ad.+ url reject
+^http:\/\/.+\.pglstatp-toutiao\.com\/obj\/web\.business\.image\/.+ url reject
+^http:\/\/.+\.pglstatp-toutiao\.com\/obj\/arthur\/.+ url reject
+^http:\/\/.+\.pglstatp-toutiao\.com url reject
+^https?:\/\/img-tailor\.11222\.cn\/pm\/app\/.+\.gif url reject
+^https?:\/\/img-tailor\.11222\.cn\/cms\/upload\/img\/.+ url reject
+^http:\/\/message\.shuqireader\.com\/message\/.+ url reject
+^https?:\/\/mobads\.baidu\.com\/cpro\/ui\/mads.+ url reject
+^http:\/\/101\.91\.69\.26:8080\/.+ url reject
+^http:\/\/mi\.gdt\.qq\.com/gdt_mview\.fcg.+ url reject
+^http:\/\/feedback.uc.cn\/feedback\/api\/get_unread_status url reject
+^http:\/\/.+\.shuqireader\.com\/sapi\/.+ url reject
 
 
 
