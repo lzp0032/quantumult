@@ -10,7 +10,7 @@
         
 "0 7 0/2 * * ?  https://gitee.com/xiecoll/radish-script/raw/master/ddgy.js, tag=滴滴水果, enabled=true",    
       
-"0 2,32 * * * ?  https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://qxnav.com/rules/QuantumultX/img/fqxs.png, enabled=true",
+"0 2,32 0/3 * * ?   https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://qxnav.com/rules/QuantumultX/img/fqxs.png, enabled=true",
 
 "1-59/15 6-23 * * *  https://raw.githubusercontent.com/leafxcy/JavaScript/main/jrttjsb.js, tag=今日头条极速版, enabled=true",
   
