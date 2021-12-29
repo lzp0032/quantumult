@@ -15,6 +15,8 @@
 "1-59/15 6-23 * * *  https://raw.githubusercontent.com/leafxcy/JavaScript/main/jrttjsb.js, tag=今日头条极速版, enabled=true",
   
 "5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js, tag=机场签到cookies版本, enabled=true",
+       
+"0 17 9,21 * * ?   https://gitee.com/gossh520/script/raw/master/zzkdapp.js, tag=追追看点, enabled=true",        
 
   ]
 }
