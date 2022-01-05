@@ -18,7 +18,10 @@
        
 "0 17 9,21 * * ?   https://gitee.com/gossh520/script/raw/master/zzkdapp.js, tag=追追看点, enabled=true",        
         
-"0 22 8-19 * * ?    https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js, tag=得间小说, enabled=true",        
+"0 22 8-19 * * ? https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js, tag=得间小说, enabled=true",    
+        
+"0 37 0/1 * * ?  https://raw.githubusercontent.com/bluesmallpig/scripts/main/qqyd.js, tag=QQ阅读, enabled=true",     
+        
 
   ]
 }
