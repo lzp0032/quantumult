@@ -1,0 +1,29 @@
+hostname=v.icbc.com.cn, wmapi.meituan.com, appconf.mail.163.com,api.m.jd.com,  *.bdstatic.com,m.ctrip.com, ms.jr.jd.com, business.msstatic.com,*.bdstatic.com,
+
+
+# > 15 工商银行开屏广告
+^https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement.*$ url reject
+
+# > 14 京东金融开屏广告
+^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/(new)?na\/m\/getLoadingPicture url reject
+
+# > 13 美团外卖开屏广告
+^https?:\/\/wmapi\.meituan\.com\/api\/v\d+\/loadInfo\? url reject
+
+# > 12 网易邮箱开屏广告
+https:\/\/appconf\.mail\.163\.com\/mmad\/get\.do url reject
+
+# > 11 虎牙直播开屏广告
+^http?:\/\/business\.msstatic\.com\/advertiser\/material url reject
+
+# > 08 百度地图开屏广告
+^https:\/\/dss0\.bdstatic\.com\/.+/tam-ogel\/.+\.jpg url reject
+
+# > 06 京东开屏广告
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start url reject
+
+# > 04 京东极速版开屏广告
+https://api.m.jd.com/client.action\?functionId=lite_advertising url reject
+
+
+
