@@ -1,0 +1,6 @@
+# > bilibili
+DOMAIN,api.bilibili.com,StreamingSE
+DOMAIN,app.bilibili.com,StreamingSE
+DOMAIN,grpc.biliapi.net,StreamingSE
+DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE
