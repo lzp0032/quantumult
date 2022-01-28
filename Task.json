@@ -22,7 +22,7 @@
         
 "0 37 0/1 * * ?  https://raw.githubusercontent.com/bluesmallpig/scripts/main/qqyd.js, tag=QQ阅读, enabled=true",     
 
- "0 45 8 * * ?  https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js",     
+ "0 45 8 * * ?  https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js ,tag=爱奇艺签到, enabled=true",     
 
   ]
 }
