@@ -21,7 +21,8 @@
 "0 22 8-19 * * ? https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js, tag=得间小说, enabled=true",    
         
 "0 37 0/1 * * ?  https://raw.githubusercontent.com/bluesmallpig/scripts/main/qqyd.js, tag=QQ阅读, enabled=true",     
-        
+
+ "0 45 8 * * ?  https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js",     
 
   ]
 }
