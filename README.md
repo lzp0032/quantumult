@@ -17,6 +17,9 @@ https://github.com/I-am-R-E/QuantumultX
 #yqc007
 https://github.com/yqc007/QuantumultX
 
+#app2smile(SPOTIFY)
+https://github.com/app2smile/rules
+
 https://github.com/litieyin/AD_VIP
 
 https://github.com/Zhuliyer/ADGai-nai
