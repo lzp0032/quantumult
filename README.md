@@ -1,6 +1,8 @@
 # MYS
 杂七杂八我需要的插件
 
+#阿里云盘小白羊版
+https://github.com/liupan1890/aliyunpan
 
 #墨鱼
 https://github.com/ddgksf2013/Cuttlefish
