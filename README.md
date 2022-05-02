@@ -1,6 +1,8 @@
 # MYS
 杂七杂八我需要的插件
 
+https://github.com/ddgksf2013/Cuttlefish/blob/master/Html/README.md
+
 #Quantumult X教学
 https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md
 
