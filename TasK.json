@@ -2,10 +2,7 @@
     "name": "东拼西凑",
     "description": "社会主义羊毛",
     "task":[  
-"0 33 11,15 * * ?  https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js, tag=腾讯自选股, enabled=true",
         
- "*/60 * * * * http://47.101.146.160/scripts/jkd.js, tag=聚看点, img-url=https://raw.githubusercontent.com/sngxmini/QuanX/main/pic/ningmeng.png, enabled=true",
-
 "5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js, tag=机场签到cookies版本, enabled=true",
         
  "0 45 8 * * ?  https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js ,tag=爱奇艺签到, enabled=true",     
