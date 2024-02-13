@@ -1,8 +1,10 @@
 {
-  "name": "李某人用图标",
-  "description": "自己常用的图标",
+  "name": "李某人用的图标",
+  "description": "常用图标by李某人",
   "icons": [
     {
       "name": "ChatGPT",
       "url": "https://raw.githubusercontent.com/lzp0032/quantumult/main/icons/ChatGPT.png"
-    }
+    },
+  ]
+}
