@@ -3,14 +3,8 @@
   "description": "非常用图标by李某人",
   "icons": [
     {
-      "name": "ChatGPT",
-      "url": "https://raw.githubusercontent.com/lzp0032/quantumult/main/icons/ChatGPT.png"
-    }, {
-      "name": "BingChat",
-      "url": "https://raw.githubusercontent.com/lzp0032/quantumult/main/icons/BingChat.png"
-    },{
-      "name": "宝龙悠悠",
-      "url": "https://raw.githubusercontent.com/lzp0032/quantumult/main/icons/Blyy.png"
+      "name": "OpenAI",
+      "url": "https://raw.githubusercontent.com/lzp0032/quantumult/main/icons/OpenAI.png"
     },
   ]
 }
