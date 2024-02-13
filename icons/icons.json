@@ -1,0 +1,11 @@
+{
+  "name": "李某人用图标",
+  "description": "自己常用的图标",
+  "icons": [
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Blyy.png"
+    },{
+      "name": "朵茜情调",
+      "url": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Dxqd.png"
+    }
